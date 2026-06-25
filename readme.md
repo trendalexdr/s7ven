@@ -1,7 +1,7 @@
 <img width="1168" height="784" alt="S7VEN BANNER" src="https://github.com/user-attachments/assets/e666d702-922a-493c-9b6b-b6f74032e131" />
 
 
-##### s7ven — Personal Autonomous AI Companion
+# s7ven — Personal Autonomous AI Companion
 
 ## 📚 Overview
 
