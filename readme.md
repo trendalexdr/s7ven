@@ -1,54 +1,56 @@
 <img width="1168" height="784" alt="S7VEN BANNER" src="https://github.com/user-attachments/assets/e666d702-922a-493c-9b6b-b6f74032e131" />
-# Seven — Personal Autonomous AI Companion
 
-## Overview
 
-Seven is a voice-first personal artificial intelligence companion designed to communicate naturally with users through spoken conversation, maintain long-term memory, and proactively assist in daily activities.
+### s7ven — Personal Autonomous AI Companion
 
-Unlike traditional chatbots that only respond to direct commands, Seven is designed to build an ongoing relationship with its user by remembering preferences, understanding context, and engaging in meaningful conversations. The project aims to bridge the gap between conventional virtual assistants and autonomous AI companions.
+## 📚 Overview
 
-## Vision
+s7ven is a voice-first personal artificial intelligence companion designed to communicate naturally with users through spoken conversation, maintain long-term memory, and proactively assist in daily activities.
+
+Unlike traditional chatbots that only respond to direct commands, s7ven is designed to build an ongoing relationship with its user by remembering preferences, understanding context, and engaging in meaningful conversations. The project aims to bridge the gap between conventional virtual assistants and autonomous AI companions.
+
+## 🌇 Vision
 
 To create a personalized AI companion that can listen, think, remember, and communicate naturally, becoming a trusted digital partner for learning, productivity, creativity, and everyday life.
 
-## Core Features
+## 📌 Core Features
 
-### Voice Interaction
+### 🔉 Voice Interaction
 
 * Real-time speech recognition.
 * Natural voice responses.
 * Hands-free communication.
 * Wake-word activation.
 
-### Conversational Intelligence
+### 🗨️ Conversational Intelligence
 
 * Human-like dialogue.
 * Context-aware responses.
 * Multi-turn conversation support.
 * Personalized communication style.
 
-### Long-Term Memory
+### ♾️Long-Term Memory
 
 * Remembers user preferences.
 * Stores important personal information.
 * Learns from previous interactions.
 * Maintains conversational continuity.
 
-### Autonomous Assistance
+### 🪂 Autonomous Assistance
 
 * Proactive notifications.
 * Daily summaries and insights.
 * Task reminders.
 * Intelligent recommendations.
 
-### Knowledge Integration
+### 🗺️ Knowledge Integration
 
 * Access to online information.
 * Personal knowledge base.
 * Custom data sources.
 * Dynamic learning capabilities.
 
-## Technical Architecture
+## 🧱 Technical Architecture
 
 Seven operates through four primary layers:
 
