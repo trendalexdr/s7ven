@@ -399,6 +399,7 @@ HTTPS
 ---
 
 # 11. Roadmap
+<img width="1024" height="1536" alt="ChatGPT Image Jun 29, 2026, 09_54_44 PM" src="https://github.com/user-attachments/assets/e0ba9ebf-5ac8-4cb0-8cda-ead81b7fc0b5" />
 
 ## Phase 1
 
@@ -518,7 +519,7 @@ In this vision, Seven is no longer just a smart speaker or chatbot—it becomes 
 
 ---
 
-## My Suggestion: Position Seven as a Platform, Not Just a Product
+## Position Seven as a Platform, Not Just a Product
 
 The strongest long-term strategy is to present Seven as an **AI Companion Platform**.
 
@@ -529,5 +530,3 @@ That means:
 * **Seven Lite** – An affordable ESP32-S3-based voice companion.
 * **Seven Pro** – A Raspberry Pi-powered companion with enhanced local capabilities.
 * **Seven SDK** (future) – A development kit allowing third-party developers to create "Skills" and integrations for the Seven ecosystem.
-
-This platform approach makes Seven scalable beyond a single device and lays the foundation for a sustainable ecosystem, where hardware, software, and cloud services work together under one unified brand.
